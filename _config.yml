@@ -23,7 +23,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-remote_theme: jeffreytse/jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
 title: Tech Traveler Wallet
 email: ethirajsrinivasan@gmail.com
 author: Ethiraj Srinivasan
@@ -47,6 +47,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   At The Tech Traveler Wallet, we explore the exciting worlds of technology, travel, and personal finance.
   This blog provides insights into the latest tech trends, practical travel tips, and strategies for managing
 
+
+domain: techtravelerwallet.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://techtravelerwallet.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
