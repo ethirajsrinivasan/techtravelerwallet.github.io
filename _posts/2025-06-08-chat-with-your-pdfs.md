@@ -5,7 +5,11 @@ subtitle: Build an intelligent document Q&A system with OpenAI, Chroma, and Flas
 categories: Tech
 tags: [LangChain, Flask, OpenAI, ChromaDB, PDF, Chatbot, RetrievalQA]
 excerpt: Learn how to create a smart app that lets users upload PDFs and ask questions, powered by GPT and vector search.
+excerpt_image: /assets/images/docuchatai.png
 ---
+
+![Chat With Your PDFs](/assets/images/docuchatai.png)
+
 
 Have you ever wanted to *chat with a PDF*? In this post, we’ll show how to build a Flask app using **LangChain**, **ChromaDB**, and **OpenAI’s GPT** to do exactly that.
 
